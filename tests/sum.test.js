@@ -1,6 +1,4 @@
 // tests/sum.test.js
-// When you want to run the tests:
-// npm run test
 
 const [sum, multiply] = require('../src/sum.js')
 
